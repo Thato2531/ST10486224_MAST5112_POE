@@ -162,6 +162,9 @@ Push to the branch
 
 Create a Pull Request
 
+# YouTube link
+ https://youtube.com/shorts/kNvpwcbXQi0?si=bEREYnFai42cFOmG
+
 # 📚 References
 React Native Documentation
 React Native (2024) Getting Started. Available at: https://reactnative.dev/docs/getting-started (Accessed: 15 January 2025).
