@@ -32,15 +32,15 @@ Professional menu presentation
 # 📁 Project Structure
 text
 chef-menu-app/
-├── App.tsx                 # Main application entry point
-├── package.json            # Dependencies and scripts
-├── tsconfig.json          # TypeScript configuration
+├── App.tsx
+├── package.json
+├── tsconfig.json
 ├── src/
-│   ├── types.ts           # Type definitions and interfaces
-│   ├── HomeScreen.tsx     # Main landing page
-│   ├── AddMenuScreen.tsx  # Menu item management
-│   ├── MenuListScreen.tsx # Customer selection view
-│   └── FilterScreen.tsx   # Search and filter functionality
+│   ├── types.ts
+│   ├── HomeScreen.tsx
+│   ├── AddMenuScreen.tsx
+│   ├── MenuListScreen.tsx
+│   └── FilterScreen.tsx 
 🛠️ Technical Stack
 Framework: React Native
 
