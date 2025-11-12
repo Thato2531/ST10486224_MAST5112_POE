@@ -167,17 +167,17 @@ Create a Pull Request
 
 # 📚 References
 React Native Documentation
-React Native (2024) Getting Started. Available at: https://reactnative.dev/docs/getting-started (Accessed: 15 January 2025).
+React Native (2024) Getting Started. Available at: https://reactnative.dev/docs/getting-started (Accessed: 11 November 2025).
 
-React Native (2024) Components and APIs. Available at: https://reactnative.dev/docs/components-and-apis (Accessed: 15 January 2025).
+React Native (2024) Components and APIs. Available at: https://reactnative.dev/docs/components-and-apis (Accessed: 11 November 2025).
 
-React Native (2024) TypeScript in React Native. Available at: https://reactnative.dev/docs/typescript (Accessed: 15 January 2025).
+React Native (2024) TypeScript in React Native. Available at: https://reactnative.dev/docs/typescript (Accessed: 11 November 2025).
 
 Navigation
-React Navigation (2024) Getting Started with React Navigation. Available at: https://reactnavigation.org/docs/getting-started/ (Accessed: 15 January 2025).
+React Navigation (2024) Getting Started with React Navigation. Available at: https://reactnavigation.org/docs/getting-started/ (Accessed: 11 November 2025).
 
-React Navigation (2024) Stack Navigator Guide. Available at: https://reactnavigation.org/docs/stack-navigator/ (Accessed: 15 January 2025).
+React Navigation (2024) Stack Navigator Guide. Available at: https://reactnavigation.org/docs/stack-navigator/ (Accessed: 11 November 2025).
 
 Core Components
-React Native (2024) View Component Documentation. Available at: https://reactnative.dev/docs/view (Accessed: 15 January 2025).
+React Native (2024) View Component Documentation. Available at: https://reactnative.dev/docs/view (Accessed: 11 November 2025).
 
