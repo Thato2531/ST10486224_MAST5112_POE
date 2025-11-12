@@ -181,3 +181,8 @@ React Navigation (2024) Stack Navigator Guide. Available at: https://reactnaviga
 Core Components
 React Native (2024) View Component Documentation. Available at: https://reactnative.dev/docs/view (Accessed: 11 November 2025).
 
+BBC Good Food (2024) Soup Recipes Collection. Available at: https://www.bbcgoodfood.com/recipes/collection/soup-recipes (Accessed: 11 November 2024).
+
+Gordon Ramsay Restaurants (2024) Signature Dishes and Menu Planning. Available at: https://www.gordonramsayrestaurants.com (Accessed: 11 November 2024).
+
+The Culinary Institute of America (2024) Professional Menu Planning. Available at: https://www.ciachef.edu (Accessed: 11 November 2024).
